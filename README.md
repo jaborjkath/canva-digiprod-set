@@ -1,4 +1,4 @@
-# canva-design-digital-products
+# canva-digiprod-set
 
 This is my Learner Hands-on Project for Coursera Certificate Course "Create and Design Digital Products Using Canva" that I've completed last July 26, 2023.
 * Gained Skills: Marketing, Graphic Design
